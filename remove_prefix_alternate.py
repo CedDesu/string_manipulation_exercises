@@ -7,7 +7,7 @@ use if and len to remove prefix
 
 """
 
-text = input("Enter a string: ")
+text = input("Enter a sentence: ")
 prefix = input("Enter the prefix to remove: ")
 
 if text.startswith(prefix):
