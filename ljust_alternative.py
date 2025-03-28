@@ -1,6 +1,6 @@
 """
 text = input()
-suffix = input()
+width = input()
 
 ends_with
 
