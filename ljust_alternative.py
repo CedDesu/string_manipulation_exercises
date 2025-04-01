@@ -2,7 +2,7 @@
 text = input()
 width = input()
 
-ends_with
+if len
 
 print()
 """
