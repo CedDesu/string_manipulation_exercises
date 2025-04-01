@@ -6,3 +6,11 @@ if len
 
 print()
 """
+
+text = input("Enter a sentence: ")
+width = int(input("Enter the total width: "))
+
+if len(text) < width:
+    text = ' ' * (width - len(text)) + text
+
+print("Result:", text)
